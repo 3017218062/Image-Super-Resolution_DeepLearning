@@ -735,8 +735,8 @@ All Time: 319.869376 s
 ## Inspiration
 <a id="15.2"/>
 
-## Disadvantage
-<a id="15.3"/>
+- Dual regression strategy reduces the size of solution space by introducing additional constraints on LR images.
+- It is effective to calculate the loss of multi-scale image without adding too many parameters.
 
 ## Result
-<a id="15.4"/>
+<a id="15.3"/>
